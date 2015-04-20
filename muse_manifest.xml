@@ -1,0 +1,71 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1414689045594">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-master.css" crc="3992219701" ref="video:music:index:about:contact"/>
+    <file name="video.css" crc="3779414339" ref="video"/>
+    <file name="music.css" crc="170354186" ref="music"/>
+    <file name="index.css" crc="3909846384" ref="index"/>
+    <file name="about.css" crc="289993158" ref="about"/>
+    <file name="contact.css" crc="219394594" ref="contact"/>
+  </folder>
+  <folder name="fonts">
+    <file name="brandon_reg.woff" crc="69893270"/>
+    <file name="brandon_reg.eot" crc="449902279"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="tablet>index:tablet>about:index:about:music:video:contact"/>
+    <file name="museutils.js" crc="4136605575" ref="tablet>index:tablet>about:index:about:music:video:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="tablet>index:tablet>about:index:about"/>
+    <file name="jquery.watch.js" crc="172956391" ref="tablet>index:tablet>about:index:about:music:video:contact"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="tablet>index:tablet>about:index:about:music:video:contact"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:index:contact"/>
+    <file name="webpro.js" crc="420478120" ref="tablet>index:index:contact"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="60020316" ref="tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>about:index:about:music:video:contact"/>
+    <file name="museredirect.js" crc="305212102" ref="index:about"/>
+    <file name="jquery.scrolleffects.js" crc="4183300935" ref="index:about:music:video:contact"/>
+    <file name="form_check.php" crc="313295658" ref="contact"/>
+    <file name="form_throttle.php" crc="254134657" ref="contact"/>
+    <file name="form_process.php" crc="304694956" ref="contact"/>
+    <file name="form-u889.php" crc="3832517280" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc_0176.jpg" crc="255311590" ref="tablet>index:index"/>
+    <file name="logo2.png" crc="4148714207" ref="tablet>index:tablet>about:index:about:music:video:contact"/>
+    <file name="sam9mkx6_0q.jpg" crc="4067145884" ref="tablet>index:index"/>
+    <file name="qfdwkhrrlfk.jpg" crc="462953373" ref="tablet>index:index"/>
+    <file name="pyrgmykeum0.jpg" crc="4142111601" ref="tablet>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:index"/>
+    <file name="pasted image 500x500.jpg" crc="3951657129" ref="tablet>index:index"/>
+    <file name="twitter.png" crc="4058722663" ref="tablet>index:index"/>
+    <file name="twitter-hover.png" crc="188515927" ref="tablet>index:index"/>
+    <file name="facebook.png" crc="4202731693" ref="tablet>index:index"/>
+    <file name="facebook-hover.png" crc="4163568903" ref="tablet>index:index"/>
+    <file name="soundcloud1.png" crc="123744374" ref="tablet>index:index"/>
+    <file name="soundcloud-hover1.png" crc="4098997837" ref="tablet>index:index"/>
+    <file name="instagram.png" crc="97913738" ref="tablet>index:index"/>
+    <file name="instagram-hover.png" crc="4044115668" ref="tablet>index:index"/>
+    <file name="fedhzrtn9bu.jpg" crc="175931537" ref="tablet>about:about"/>
+    <file name="map.jpg" crc="266350491" ref="contact"/>
+    <file name="u901-17.png" crc="182226755" ref="contact"/>
+    <file name="u901-17-r.png" crc="4258686415" ref="contact"/>
+    <file name="u901-17-m.png" crc="4258686415" ref="contact"/>
+    <file name="u901-17-fs.png" crc="3956457563" ref="contact"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="199198926" ref="tablet>index:tablet>about"/>
+      <file name="index.css" crc="3874117553" ref="tablet>index"/>
+      <file name="about.css" crc="4260338263" ref="tablet>about"/>
+    </folder>
+    <file name="index.html" crc="4194860877" mt="1414678157743" redirect="true"/>
+    <file name="about.html" crc="404502320" mt="1414677845791" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="445321016" mt="1414688012999" redirect="true"/>
+  <file name="about.html" crc="118389670" mt="1414688993798" redirect="true"/>
+  <file name="music.html" crc="135237139" mt="1414688013000" redirect="true"/>
+  <file name="video.html" crc="4066484050" mt="1414688013001" redirect="true"/>
+  <file name="contact.html" crc="329765367" mt="1414689045284" redirect="true"/>
+</manifest>
